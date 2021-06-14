@@ -1,0 +1,13 @@
+
+.entryForm__date{
+    display: flex;
+}
+.entryForm__concept{
+    display: flex;
+}
+.entryForm__journalEntry{
+    display: flex;
+}
+.entryForm__mood{
+    display: flex;
+}
